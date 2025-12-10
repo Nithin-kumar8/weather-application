@@ -30,7 +30,8 @@ weather_app/
 ├── view_logs.py  
 ├── weather_api_client.py  
 ├── Weather_logger.py
-└── weather_logs.db    
+└── weather_logs.db
+
 ## Requirements
 
 - Python 3.6+
